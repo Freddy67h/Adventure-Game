@@ -1,21 +1,14 @@
-
-/**
- * Write a description of class GameOverRoom here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
-public class GameOverRoom
+public class GameOverRoom extends Room
 {
 
 
     public GameOverRoom()
     {
-
+       
     }
 
-    public void sampleMethod()
+    public void endGame()
     {
-
+        gameOver();
     }
 }
