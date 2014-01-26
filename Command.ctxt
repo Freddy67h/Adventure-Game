@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Command()
+comment1.params=
+comment1.target=void\ processInput()
+comment10.params=s\ words
+comment10.target=boolean\ memberOf(java.lang.String,\ java.lang.String[])
+comment2.params=
+comment2.target=boolean\ isHelp()
+comment3.params=
+comment3.target=boolean\ isQuit()
+comment4.params=
+comment4.target=boolean\ isInventory()
+comment5.params=
+comment5.target=boolean\ isLookRoom()
+comment6.params=room
+comment6.target=boolean\ isTravel(Room)
+comment7.params=
+comment7.target=java.lang.String\ getDirectionReference()
+comment8.params=words
+comment8.target=boolean\ firstWordIn(java.lang.String[])
+comment9.params=words
+comment9.target=boolean\ secondWordIn(java.lang.String[])
+numComments=11
